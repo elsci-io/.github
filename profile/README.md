@@ -5,6 +5,6 @@ At Elsci we create enterprise-grade scientific software. Quick links:
 
 If you want to contact us:
 
-* For custom software development or a technical consultation, check out our [business model](https://elsci.io/software-development.html)
+* For custom software development or a technical consultation, check out our [business model](https://elsci.io/bespoke-software.html)
 * If you have questions, [create a discussion](https://github.com/orgs/elsci-io/discussions). In case of feature requests/bug reports [create an issue](https://github.com/elsci-io/public/issues)  
 * For anything else: [support@elsci.io](mailto:support@elsci.io)
